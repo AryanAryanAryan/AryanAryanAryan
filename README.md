@@ -10,6 +10,6 @@ Computer Science graduate from UNSW Sydney, interested in AI/ML, software engine
 
 ## Projects
 
-- **Deep Mining the Genome's Dark Matter:** capstone research project exploring how genomic AI models represent non-coding RNA sequences
+- **[Deep Mining the Genome's Dark Matter](https://github.com/AryanAryanAryan/deep-mining-genome-dark-matter):** capstone research project exploring how genomic AI models represent non-coding RNA sequences
 - **ReelThing:** self-hosted platform for saving and retrieving social-media posts, files and metadata (in progress)
 - **Configurable ESP32 DSP Controller:** offline tool for setting up an ESP32-based DSP controller without the hardware connected (in progress)
